@@ -1,1 +1,2 @@
 budtmo/docker-android:emulator_11.0
+container-registry.oracle.com/java/serverjre:1.8.0_421-oraclelinux8
